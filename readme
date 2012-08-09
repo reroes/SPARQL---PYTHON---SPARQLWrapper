@@ -1,6 +1,8 @@
 
 SPARQL DESDE PYTHON MEDIANTE SPARQLWrapper
 
+Descargar http://sparql-wrapper.sourceforge.net/ la librería necesaria.
+
 1.- Descomprimir el .tar
 2.- Activar el enviaroment
 3.- ejecutar: python setup.py install
