@@ -1,0 +1,7 @@
+
+SPARQL DESDE PYTHON MEDIANTE SPARQLWrapper
+
+1.- Descomprimir el .tar
+2.- Activar el enviaroment
+3.- ejecutar: python setup.py install
+4.- ejecutar python demo.py Ecuador (como ejemplo)
