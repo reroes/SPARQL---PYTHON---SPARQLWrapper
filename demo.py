@@ -1,3 +1,9 @@
+"""
+Tomado como referencia de la siguiente pag.
+http://sparql-wrapper.sourceforge.net/
+
+@reroes
+"""
 from SPARQLWrapper import SPARQLWrapper, JSON
 import sys
 
